@@ -100,47 +100,122 @@ easybenchk — это утилита, которая поможет сравни
 </tr>
 
 <tr>
-    <td>Intel Core i5-9400F, 6/6, amd64</td>
-    <td>DDR4/2666</td>
-    <td>54289/54288</td>
-    <td>65400</td>
-    <td>34171</td>
-    <td>17162</td>
-    <td>11792</td>
-    <td>13428</td>
-    <td>12100</td>
-    <td>12636</td>
-    <td>133827</td>
+    <td>AMD Ryzen 5 3600, 6/12, amd64</td>
+    <td>DDR4/2133</td>
+    <td>14356/14372</td>
+    <td>17003</td>
+    <td>8883</td>
+    <td>7556</td>
+    <td>6103</td>
+    <td>6369</td>
+    <td>6147</td>
+    <td>7426</td>
+    <td>57938</td>
     <td>GNU/Linux</td>
 </tr>
 
 <tr>
     <td>Intel Core i5-9400F, 6/6, amd64</td>
     <td>DDR4/2666</td>
-    <td>54289/54288</td>
-    <td>65400</td>
-    <td>34171</td>
-    <td>17162</td>
-    <td>11792</td>
-    <td>13428</td>
-    <td>12100</td>
-    <td>12636</td>
-    <td>133827</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+</tr>
+
+<tr>
+    <td>Intel Core i5-3570, 4/4, amd64</td>
+    <td>DDR3/1600</td>
+    <td>18531/18541</td>
+    <td>51265</td>
+    <td>27708</td>
+    <td>16561</td>
+    <td>16465</td>
+    <td>16132</td>
+    <td>16288</td>
+    <td>15876</td>
+    <td>62931</td>
+    <td>Windows</td>
+</tr>
+
+<tr>
+    <td>Intel Pentium Gold 5405U, 2/4, amd64</td>
+    <td>DDR4/2133</td>
+    <td>30275/30284</td>
+    <td>24176</td>
+    <td>14252</td>
+    <td>15429</td>
+    <td>16025</td>
+    <td>15944</td>
+    <td>16605</td>
+    <td>16706</td>
+    <td>88755</td>
+    <td>Windows</td>
+</tr>
+
+<tr>
+    <td>Intel Core i5-4300U, 2/4, amd64</td>
+    <td>DDR3/1600</td>
+    <td>34850/34853</td>
+    <td>102077</td>
+    <td>51956</td>
+    <td>52752</td>
+    <td>53175</td>
+    <td>53306</td>
+    <td>53508</td>
+    <td>53733</td>
+    <td>218018</td>
     <td>GNU/Linux</td>
 </tr>
 
 <tr>
     <td>Intel Core i5-4300U, 2/4, amd64</td>
     <td>DDR3/1600</td>
-    <td>127272/127278</td>
-    <td>159870</td>
-    <td>83378</td>
-    <td>76150</td>
-    <td>78665</td>
-    <td>76276</td>
-    <td>76358</td>
-    <td>76500</td>
-    <td>269763</td>
+    <td>34028/34033</td>
+    <td>102150</td>
+    <td>54638</td>
+    <td>54838</td>
+    <td>54726</td>
+    <td>55167</td>
+    <td>55203</td>
+    <td>54977</td>
+    <td>117580</td>
+    <td>Windows</td>
+</tr>
+
+<tr>
+    <td>Intel Atom N570, 2/4, amd64</td>
+    <td>DDR2/667</td>
+    <td>196887/196887</td>
+    <td>563348</td>
+    <td>298724</td>
+    <td>243844</td>
+    <td>248087</td>
+    <td>243298</td>
+    <td>242720</td>
+    <td>242986</td>
+    <td>812199</td>
+    <td>Windows</td>
+</tr>
+
+<tr>
+    <td>Qualcomm Snapdragon 435, 8, arm64</td>
+    <td>LPDDR3/800</td>
+    <td>88850/88891</td>
+    <td>4194293</td>
+    <td>2117734</td>
+    <td>1048831</td>
+    <td>797518</td>
+    <td>638089</td>
+    <td>722360</td>
+    <td>685100</td>
+    <td>430052</td>
     <td>Windows</td>
 </tr>
 
