@@ -1,5 +1,5 @@
 CC=g++
-FLAGS=-Wall -fopenmp
+FLAGS=-Wall -fopenmp -O2
 I=-I./include/
 SOURCES=main.cpp ./func/cpu.cpp ./func/calcPI.cpp ./func/calcE.cpp ./func/calcI.cpp ./func/calcSeries.cpp ./func/mem.cpp
 EXECUTABLE=easybenchk

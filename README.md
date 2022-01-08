@@ -18,16 +18,6 @@ easybenchk — это утилита, которая поможет сравни
 > make
 ```
 
-Если утилиты `make` нет, то компиляцию можно выполнить так:
-
-``` bash
-> git clone https://github.com/The220th/easybenchk
-
-> cd easybenchk
-
-> python make.py
-```
-
 После этого запустить:
 
 ``` bash
@@ -107,6 +97,21 @@ easybenchk — это утилита, которая поможет сравни
     <td><b>16 cores</b></td>
     <td><b>mem</b></td>
     <td><b>Примечания</b></td>
+</tr>
+
+<tr>
+    <td>Intel Core i5-9400F, 6/6, amd64</td>
+    <td>DDR4/2666</td>
+    <td>54289/54288</td>
+    <td>65400</td>
+    <td>34171</td>
+    <td>17162</td>
+    <td>11792</td>
+    <td>13428</td>
+    <td>12100</td>
+    <td>12636</td>
+    <td>133827</td>
+    <td>GNU/Linux</td>
 </tr>
 
 <tr>
