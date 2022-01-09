@@ -99,6 +99,22 @@ easybenchk — это утилита, которая поможет сравни
     <td><b>Примечания</b></td>
 </tr>
 
+
+<tr>
+    <td>Intel Core i5-9400F, 6/6, amd64</td>
+    <td>DDR4/2666</td>
+    <td>17372/17372</td>
+    <td>13665</td>
+    <td>8047</td>
+    <td>5112</td>
+    <td>4603</td>
+    <td>4980</td>
+    <td>4973</td>
+    <td>5316</td>
+    <td>70398</td>
+    <td>GNU/Linux</td>
+</tr>
+
 <tr>
     <td>AMD Ryzen 5 3600, 6/12, amd64</td>
     <td>DDR4/2133</td>
@@ -112,21 +128,6 @@ easybenchk — это утилита, которая поможет сравни
     <td>7426</td>
     <td>57938</td>
     <td>GNU/Linux</td>
-</tr>
-
-<tr>
-    <td>Intel Core i5-9400F, 6/6, amd64</td>
-    <td>DDR4/2666</td>
-    <td>-</td>
-    <td>-</td>
-    <td>-</td>
-    <td>-</td>
-    <td>-</td>
-    <td>-</td>
-    <td>-</td>
-    <td>-</td>
-    <td>-</td>
-    <td>-</td>
 </tr>
 
 <tr>
@@ -216,7 +217,7 @@ easybenchk — это утилита, которая поможет сравни
     <td>722360</td>
     <td>685100</td>
     <td>430052</td>
-    <td>Windows</td>
+    <td>Android</td>
 </tr>
 
 </table>
