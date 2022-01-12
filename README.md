@@ -160,6 +160,21 @@ easybenchk — это утилита, которая поможет сравни
 </tr>
 
 <tr>
+    <td>Intel Core i7-1165G7, 4/8, amd64</td>
+    <td>DDR4/4267/>=2</td>
+    <td>13952/13957</td>
+    <td>12393</td>
+    <td>8732</td>
+    <td>6975</td>
+    <td>6755</td>
+    <td>7397</td>
+    <td>7873</td>
+    <td>7818</td>
+    <td>30523</td>
+    <td>Windows</td>
+</tr>
+
+<tr>
     <td>Intel Core i7-8750H, 6/12, amd64</td>
     <td>DDR4/2667/?</td>
     <td>17015/17021</td>
