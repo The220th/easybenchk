@@ -175,6 +175,21 @@ easybenchk — это утилита, которая поможет сравни
 </tr>
 
 <tr>
+    <td>Intel Core i5-7600</td>
+    <td>DDR4/2133/1</td>
+    <td>16186/16192</td>
+    <td>13565</td>
+    <td>8163</td>
+    <td>5384</td>
+    <td>5718</td>
+    <td>5642</td>
+    <td>5921</td>
+    <td>6057</td>
+    <td>71516</td>
+    <td>GNU/Linux</td>
+</tr>
+
+<tr>
     <td>Intel Core i7-8750H, 6/12, amd64</td>
     <td>DDR4/2667/?</td>
     <td>17015/17021</td>
@@ -265,6 +280,21 @@ easybenchk — это утилита, которая поможет сравни
 </tr>
 
 <tr>
+    <td>Intel Xeon E5-2640, 6/12, amd64</td>
+    <td>DDR4/3200/1</td>
+    <td>19095/19097</td>
+    <td>57793</td>
+    <td>31702</td>
+    <td>19160</td>
+    <td>14941</td>
+    <td>12526</td>
+    <td>13161</td>
+    <td>13482</td>
+    <td>71656</td>
+    <td>Windows</td>
+</tr>
+
+<tr>
     <td>Intel Core i5-4300U, 2/4, amd64</td>
     <td>DDR3/1600/1</td>
     <td>34850/34853</td>
@@ -295,6 +325,36 @@ easybenchk — это утилита, которая поможет сравни
 </tr>
 
 <tr>
+    <td>Intel Core i3-2350M, 2/4, amd64</td>
+    <td>DDR3/1333/1</td>
+    <td>32467/32475</td>
+    <td>114120</td>
+    <td>81793</td>
+    <td>61309</td>
+    <td>59953</td>
+    <td>59554</td>
+    <td>59676</td>
+    <td>59811</td>
+    <td>108066</td>
+    <td>Windows</td>
+</tr>
+
+<tr>
+    <td>Intel Celeron 847, 2/2, amd64</td>
+    <td>DDR3/1333/1</td>
+    <td>69149/69153</td>
+    <td>236481</td>
+    <td>119601</td>
+    <td>119884</td>
+    <td>120363</td>
+    <td>120877</td>
+    <td>121153</td>
+    <td>121798</td>
+    <td>505376</td>
+    <td>GNU/Linux</td>
+</tr>
+
+<tr>
     <td>Intel Atom N570, 2/4, amd64</td>
     <td>DDR2/667/1</td>
     <td>196887/196887</td>
@@ -307,6 +367,21 @@ easybenchk — это утилита, которая поможет сравни
     <td>242986</td>
     <td>812199</td>
     <td>Windows</td>
+</tr>
+
+<tr>
+    <td>Intel Atom N450, 1/2, amd64</td>
+    <td>DDR2/667/1</td>
+    <td>206867/207266</td>
+    <td>569532</td>
+    <td>460941</td>
+    <td>462904</td>
+    <td>463551</td>
+    <td>465265</td>
+    <td>467678</td>
+    <td>469763</td>
+    <td>1308075</td>
+    <td>GNU/Linux</td>
 </tr>
 
 <tr>
