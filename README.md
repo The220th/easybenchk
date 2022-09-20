@@ -280,6 +280,21 @@ easybenchk — это утилита, которая поможет сравни
 </tr>
 
 <tr>
+    <td>Intel Core i3-4170, 2/4, amd64</td>
+    <td>DDR3/1600/2</td>
+    <td>17777/17783</td>
+    <td>52291</td>
+    <td>26981</td>
+    <td>27307</td>
+    <td>27659</td>
+    <td>27530</td>
+    <td>27693</td>
+    <td>27894</td>
+    <td>117574</td>
+    <td>GNU/Linux</td>
+</tr>
+
+<tr>
     <td>Intel Xeon E5-2640, 6/12, amd64</td>
     <td>DDR4/3200/1</td>
     <td>19095/19097</td>
@@ -351,6 +366,21 @@ easybenchk — это утилита, которая поможет сравни
     <td>121153</td>
     <td>121798</td>
     <td>505376</td>
+    <td>GNU/Linux</td>
+</tr>
+
+<tr>
+    <td>AMD E2-3800, 4/4, amd64</td>
+    <td>DDR3/1600/2</td>
+    <td>99621/99841</td>
+    <td>207229</td>
+    <td>105246</td>
+    <td>55312</td>
+    <td>57612</td>
+    <td>56494</td>
+    <td>57850</td>
+    <td>58712</td>
+    <td>681194</td>
     <td>GNU/Linux</td>
 </tr>
 
