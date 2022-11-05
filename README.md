@@ -100,21 +100,6 @@ easybenchk — это утилита, которая поможет сравни
 </tr>
 
 <tr>
-    <td>AMD Ryzen 5 3600, 6/12, amd64</td>
-    <td>DDR4/2133/2</td>
-    <td>14356/14372</td>
-    <td>17003</td>
-    <td>8883</td>
-    <td>7556</td>
-    <td>6103</td>
-    <td>6369</td>
-    <td>6147</td>
-    <td>7426</td>
-    <td>57938</td>
-    <td>GNU/Linux</td>
-</tr>
-
-<tr>
     <td>Intel Core i5-10400F, 6/12, amd64</td>
     <td>DDR4/2666/2</td>
     <td>15158/15189</td>
@@ -126,6 +111,21 @@ easybenchk — это утилита, которая поможет сравни
     <td>4746</td>
     <td>5485</td>
     <td>74824</td>
+    <td>GNU/Linux</td>
+</tr>
+
+<tr>
+    <td>AMD Ryzen 5 3600, 6/12, amd64</td>
+    <td>DDR4/2133/2</td>
+    <td>14356/14372</td>
+    <td>17003</td>
+    <td>8883</td>
+    <td>7556</td>
+    <td>6103</td>
+    <td>6369</td>
+    <td>6147</td>
+    <td>7426</td>
+    <td>57938</td>
     <td>GNU/Linux</td>
 </tr>
 
