@@ -381,7 +381,7 @@ easybenchk — это утилита, которая поможет сравни
     <td>120309</td>
     <td>123074</td>
     <td>504572</td>
-    <td>GNU/Linux</td>
+    <td>Windows</td>
 </tr>
 
 <tr>
