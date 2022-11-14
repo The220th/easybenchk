@@ -100,6 +100,21 @@ easybenchk — это утилита, которая поможет сравни
 </tr>
 
 <tr>
+    <td>Intel Core i5-12400F, 6/12, amd64</td>
+    <td>DDR4/2133/2</td>
+    <td>12652/12652</td>
+    <td>12372</td>
+    <td>7859</td>
+    <td>5294</td>
+    <td>4481</td>
+    <td>4701</td>
+    <td>4832</td>
+    <td>4550</td>
+    <td>22812</td>
+    <td>Windows</td>
+</tr>
+
+<tr>
     <td>Intel Core i5-10400F, 6/12, amd64</td>
     <td>DDR4/2666/2</td>
     <td>15158/15189</td>
