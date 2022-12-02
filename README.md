@@ -474,4 +474,19 @@ easybenchk — это утилита, которая поможет сравни
     <td>Android</td>
 </tr>
 
+<tr>
+    <td>Orange Pi Prime, Allwinner H5 Quad-core Cortex-A53, 4, arm64</td>
+    <td>LPDDR3/?/?</td>
+    <td>101477/101487</td>
+    <td>4107481</td>
+    <td>2052007</td>
+    <td>1059137</td>
+    <td>1080260</td>
+    <td>1068907</td>
+    <td>1068303</td>
+    <td>1070932</td>
+    <td>3768723</td>
+    <td>GNU/Linux</td>
+</tr>
+
 </table>
