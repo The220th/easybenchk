@@ -115,21 +115,6 @@ easybenchk — это утилита, которая поможет сравни
 </tr>
 
 <tr>
-    <td>Intel Core i7-11800H, 8/16, amd64</td>
-    <td>DDR4/3200/?</td>
-    <td>13636/13637</td>
-    <td>12449</td>
-    <td>9181</td>
-    <td>6120</td>
-    <td>5886</td>
-    <td>6110</td>
-    <td>6854</td>
-    <td>7490</td>
-    <td>32722</td>
-    <td>Windows</td>
-</tr>
-
-<tr>
     <td>Intel Core i5-10400F, 6/12, amd64</td>
     <td>DDR4/2666/2</td>
     <td>15158/15189</td>
@@ -142,6 +127,21 @@ easybenchk — это утилита, которая поможет сравни
     <td>5485</td>
     <td>74824</td>
     <td>GNU/Linux</td>
+</tr>
+
+<tr>
+    <td>Intel Core i7-11800H, 8/16, amd64</td>
+    <td>DDR4/3200/?</td>
+    <td>13636/13637</td>
+    <td>12449</td>
+    <td>9181</td>
+    <td>6120</td>
+    <td>5886</td>
+    <td>6110</td>
+    <td>6854</td>
+    <td>7490</td>
+    <td>32722</td>
+    <td>Windows</td>
 </tr>
 
 <tr>
