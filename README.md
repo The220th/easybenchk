@@ -115,6 +115,21 @@ easybenchk — это утилита, которая поможет сравни
 </tr>
 
 <tr>
+    <td>Intel Core i7-11800H, 8/16, amd64</td>
+    <td>DDR4/3200/?</td>
+    <td>13636/13637</td>
+    <td>12449</td>
+    <td>9181</td>
+    <td>6120</td>
+    <td>5886</td>
+    <td>6110</td>
+    <td>6854</td>
+    <td>7490</td>
+    <td>32722</td>
+    <td>Windows</td>
+</tr>
+
+<tr>
     <td>Intel Core i5-10400F, 6/12, amd64</td>
     <td>DDR4/2666/2</td>
     <td>15158/15189</td>
@@ -235,6 +250,21 @@ easybenchk — это утилита, которая поможет сравни
 </tr>
 
 <tr>
+    <td>AMD Ryzen 5 5700U, 8/16, amd64</td>
+    <td>DDR4/3200/?</td>
+    <td>18753/18758</td>
+    <td>16392</td>
+    <td>8880</td>
+    <td>7505</td>
+    <td>6536</td>
+    <td>6995</td>
+    <td>6962</td>
+    <td>6955</td>
+    <td>49336</td>
+    <td>Windows</td>
+</tr>
+
+<tr>
     <td>AMD Ryzen 5 4600H, 6/12, amd64</td>
     <td>DDR4/3200/?</td>
     <td>15649/15652</td>
@@ -337,6 +367,21 @@ easybenchk — это утилита, которая поможет сравни
     <td>13482</td>
     <td>71656</td>
     <td>Windows</td>
+</tr>
+
+<tr>
+    <td>Intel i3-2100, 2/4, amd64</td>
+    <td>DDR3/1333/2</td>
+    <td>24877/24878</td>
+    <td>83970</td>
+    <td>42707</td>
+    <td>42912</td>
+    <td>43317</td>
+    <td>43298</td>
+    <td>43553</td>
+    <td>43759</td>
+    <td>146385</td>
+    <td>GNU/Linux</td>
 </tr>
 
 <tr>
