@@ -220,7 +220,7 @@ easybenchk — это утилита, которая поможет сравни
 </tr>
 
 <tr>
-    <td>Intel Core i5-7600</td>
+    <td>Intel Core i5-7600, 4/4, amd64</td>
     <td>DDR4/2133/1</td>
     <td>16186/16192</td>
     <td>13565</td>
@@ -231,6 +231,21 @@ easybenchk — это утилита, которая поможет сравни
     <td>5921</td>
     <td>6057</td>
     <td>71516</td>
+    <td>GNU/Linux</td>
+</tr>
+
+<tr>
+    <td>Intel Core i5-8400, 6/6, amd64</td>
+    <td>DDR4/2666/2</td>
+    <td>17841/17839</td>
+    <td>13994</td>
+    <td>8406</td>
+    <td>5693</td>
+    <td>5208</td>
+    <td>5661</td>
+    <td>5670</td>
+    <td>6031</td>
+    <td>80467</td>
     <td>GNU/Linux</td>
 </tr>
 
